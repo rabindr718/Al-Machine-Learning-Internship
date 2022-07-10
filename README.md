@@ -1,2 +1,1 @@
-# AlandMachineLearning
-YBI Foundation Internship 
+# AIandMachinlearning
